@@ -1,33 +1,17 @@
-#MITA: Mathematical International Talent Arena
-**© 2025 [MITA TEAM] • All Rights Reserved • [CFs, Yipeng Lu/Rhythm Panchal/Rohit Chavali]**
+This repository contains the **frozen, original version** of **MITA – Mathematical International Talent Arena**.  
+It represents the project exactly as it existed on **October 26, 2025**, before public collaboration and major refactors began.
 
-## 🌍 Vision
-**Creating the first internationally recognized ELO system for competitive math**, replacing outdated contest-based rankings with real-time skill measurements through online duels.
-=> Ruthless equations
-=> Amplified pressure
-=> Survival forces precision
-**The natural selection for mathematicians | MITA**
+## 🕰️ Legacy Details
+- **Tag / Snapshot Date:** October 26 2025  
+- **Commit History:** Full commit and tag history preserved  
+- **Maintenance:** None (archived)  
+- **License:** Same as active MITA version
 
+If you are looking for the **active, maintained version** of MITA, visit:
 
-## 🎯 Key Features 
-**ELO BASED MATCHMAKING** | Rigorous math duels calibrated to force higher level thinking
-**DYNAMIC QUESTION ENGINE** | 1.4k+ problems scaled by elo (0-2000).
-**MATH TAILORED CANVAS** | work out solutions with a digital canvas optimized for mathematics
-**LIVE ANTI-CHEAT** | Behavior monitoring, Time based validations
-**AI GRADING (Future)** | Premium feature to evaluate written work. (partial markings)
+👉 **[Active MITA Repository → Y-L77/MITA](https://github.com/Y-L77/MITA)**
 
 
 
-
-
-
-
-
-
-
-Contact: yipeng.dev@gmail.com
-
-
-
-
-
+© 2025 Yipeng Lu. All rights reserved.  
+MITA – Mathematical International Talent Arena.
